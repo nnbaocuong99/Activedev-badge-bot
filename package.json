@@ -2,9 +2,9 @@
   "dependencies": {
     "eris": "^0.17.1"
   },
-  "name": "stupid-discord-badge",
+  "name": "BasicPybot",
   "version": "1.0.0",
-  "description": "Discord can eat my ass",
+  "description": "i dont really know",
   "main": "index.js",
   "scripts": {
     "run": "npm i && node ."
