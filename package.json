@@ -11,12 +11,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/User9684/stupid-discord-badge.git"
+    "url": "https://github.com/nnbaocuong99/archived-badge-bot"
   },
-  "author": "user#6969",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/User9684/stupid-discord-badge/issues"
-  },
-  "homepage": "https://github.com/User9684/stupid-discord-badge#readme"
 }
