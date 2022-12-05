@@ -1,4 +1,15 @@
-#### locahosting
+<h3 align="center">basic python discord bot to get the active devloper badge</h3>
+
+---
+
+#### as u know
+- discord has launched a brand-new badge called `active developer` and this is not a limited-time event, and there are no plans to stop offering it.
+-  used and got myself and a few more accounts this badges so i decided to share it.
+- i really dont mind, just take it. i dont have any license.
+
+---
+
+#### usage / locahosting 
 if u r not plan to host ur bot on the vps or a cloud server pls follow these step:
 - create a bot on Dev portal
 - get/storage ur bot token (highly recommend dont let someone got your bot token)
@@ -13,6 +24,8 @@ folder then `npm run run ur_bot_token`
 
 
 > 2. already cloned or download: basically paste it into the directory u want and run the command `npm run run ur_bot_token` 
+
+---
 
 #### run the command and get ur own the badge
 - if ur bot successfully started and got an `online` status, invite it using the URL created on the Dev portal site.
