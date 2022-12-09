@@ -20,10 +20,10 @@ if u r not plan to host ur bot on the vps or a cloud server pls follow these ste
 - if you:
 
 > 1. cloned the repo: run the `git clone https://github.com/nnbaocuong99/archived-badge-bot` cd into the 
-folder then `npm run run ur_bot_token`
+folder then `npm run ur_bot_token`
 
 
-> 2. already cloned or download: basically paste it into the directory u want and run the command `npm run run ur_bot_token` 
+> 2. already cloned or download: basically paste it into the directory u want and run the command `npm run ur_bot_token` 
 
 ---
 
