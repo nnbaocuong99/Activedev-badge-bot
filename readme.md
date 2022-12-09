@@ -19,9 +19,9 @@ if u r not plan to host ur bot on the vps or a cloud server pls follow these ste
 - get urself `terminal` (in this step i recommend u to use `VScode` to install the dependencies then run the command)
 - if you:
 
-> cloned the 
-1. repo: run the `git clone https://github.com/nnbaocuong99/archived-badge-bot` 
-2. cd into the folder then `npm run ur_bot_token`
+> cloned the repo: 
+> 1. run the `git clone https://github.com/nnbaocuong99/archived-badge-bot` 
+> 2. cd into the folder then `npm run ur_bot_token`
 
 
 > 2. already cloned or download: basically paste it into the directory u want and run the command `npm run ur_bot_token` 
