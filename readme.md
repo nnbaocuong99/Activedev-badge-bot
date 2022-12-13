@@ -2,17 +2,17 @@
 
 ---
 
-#### ✨ as u know
+## ✨ as u know
 - discord has launched a brand-new badge called [active developer badge](https://support-dev.discord.com/hc/en-us/articles/10113997751447-Active-Developer-Badge) and this is not a limited-time event, and there are no plans to stop offering it.
 - used and got myself and a few more accounts this badges so i decided to share it.
-- i really dont mind everybody can make basic bot, just take it. i dont have any license or tried to claim or steal from anyone
+- i really dont mind everybody can make basic bot, just take it. i dont have any license or tried to claim or steal from anyone.
 
 ---
 
-#### ✨ usage / locahosting 
+## ✨ usage / locahosting 
 if u r not plan to host ur bot on the vps or a cloud server pls follow these step:
 - on [discord developer portal](https://discord.com/developers/applications) create an appplication and build a bot.
-- click `reset token` to get or bot token 
+- click `reset token` to get or bot token (dont forget to storage and DO NOT let anyone know ur bot token!)
 - on your device, install [Node](https://nodejs.org/en/) to run your bot and you also need [Git](https://git-scm.com) to control your source code, repo,...
 - if u dont have any IDE get urself 1 (for example VScode) or a `terminal` in the directory. 
 - if you:
@@ -31,7 +31,7 @@ if u r not plan to host ur bot on the vps or a cloud server pls follow these ste
 
 ---
 
-#### ✨ run the command and get ur own the badge
+## ✨ run the command and get ur own the badge
 
 - if ur bot successfully started and got an `online` status, invite it using the URL created on the Dev portal site.
 - use the `/hithere` command by type `/` on the chat and select you bot
