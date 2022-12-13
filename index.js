@@ -1,9 +1,9 @@
 const { CommandClient } = require('eris')
 
-// basic python bot create.
+// create ur bot
 async function init(token) {
     const BasicPybot = new CommandClient(`Bot ${token}`, { intents: ['guilds'], maxShards: 'auto',restMode: true })
-    // Register the slash command for the bot i think.
+    // this part is for register the slash command for ur bot i think.
     BasicPybot.on('ready', async () => {
         await BasicPybot.bulkEditCommands([{
             name: 'hithere',
@@ -12,7 +12,7 @@ async function init(token) {
         }])
         console.log(`u can now invite your bot with the link!\nhttps://discord.com/oauth2/authorize?client_id=${BasicPybot.user.id}&scope=applications.commands%20bot&permissions=3072`)
     })
-    // how the bot interaction.
+    // how the bot interaction (reply to pp who used the slash cmd
     BasicPybot.on('interactionCreate', async (interaction) => {
         if (interaction?.data?.name === 'hello world') {
             await interaction.createMessage({
