@@ -1,4 +1,4 @@
-<h3 align="center">basic python discord bot to get the active devloper badge</h3>
+<h3 align="center">basic discord bot to get the active devloper badge</h3>
 
 ---
 
