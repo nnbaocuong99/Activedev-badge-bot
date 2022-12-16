@@ -29,6 +29,8 @@ if u r not plan to host ur bot on the vps or a cloud server pls follow these ste
 
 2. run this command `npm run ur_bot_token` 
 
+- basic package: https://www.npmjs.com/settings/nnbaocuong99/packages
+
 ---
 
 ## ✨ run the command and get ur own the badge
