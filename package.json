@@ -26,6 +26,6 @@
     "url": "https://github.com/nnbaocuong99/Activedev-badge-bot/issues"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/:_authToken=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"
+    "registry": "https://npm.pkg.github.com/nnbaocuong99/Activedev-badge-bot.git"
   }
 }
