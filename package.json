@@ -1,5 +1,5 @@
 {
-  "name": "nnbaocuong99activedevbadgebot",
+  "name": "@nnbaocuong99/activedev-badge-bot",
   "version": "1.0.0",
   "description": "package",
   "main": "index.js",
@@ -24,10 +24,6 @@
   },
   "homepage": "https://github.com/nnbaocuong99/Activedev-badge-bot#readme",
   "publishConfig": {
-    "nnbaocuong99:registry": "https://npm.pkg.github.com"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nnbaocuong99/Activedev-badge-bot.git"
+    "@nnbaocuong99:registry": "https://npm.pkg.github.com"
   }
 }
