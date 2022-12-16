@@ -1,7 +1,11 @@
 {
-  "name": "@nnbaocuong99/package-name",
+  "name": "@nnbaocuong99/activedevbadgebot",
   "version": "1.0.1",
   "description": "package",
+  "author": {
+    "name": "nnbaocuong99",
+    "email": "nnbaocuong99@gmail.com"
+  },
   "main": "index.js",
   "dependencies": {
     "eris": "^0.17.1",
@@ -14,15 +18,14 @@
     "test": "exit 0"
   },
   "repository": {
-    "url": "git@github.com:nnbaocuong99/Activedev-badge-bot.git"
+    "type": "git",
+    "url": "https://github.com:nnbaocuong99/Activedev-badge-bot.git"
   },
-  "author": "nnbaocuong99",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nnbaocuong99/Activedev-badge-bot/issues"
   },
-  "homepage": "https://github.com/nnbaocuong99/Activedev-badge-bot#readme",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/:_authToken=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"
   }
 }
