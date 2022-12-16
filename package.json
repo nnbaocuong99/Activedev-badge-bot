@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/nnbaocuong99/Activedev-badge-bot/issues"
   },
-  "homepage": "https://github.com/nnbaocuong99/Activedev-badge-bot#readme"
+  "homepage": "https://github.com/nnbaocuong99/Activedev-badge-bot#readme",
+  "publishConfig": {
+    "nnbaocuong99:registry": "https://npm.pkg.github.com"
+  }
 }
