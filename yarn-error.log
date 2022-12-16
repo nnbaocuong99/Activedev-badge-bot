@@ -1,0 +1,63 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/Cellar/yarn/1.22.19/libexec/bin/yarn.js add @nnbaocuong99/activedev-badge-bot
+
+PATH: 
+  /Users/baocuong/.rd/bin:/bin:/Library/Frameworks/Python.framework/Versions/3.11/bin:/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/baocuong/.rd/bin:/Library/Frameworks/Python.framework/Versions/3.11/bin:/opt/local/bin:/opt/local/sbin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.16.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: https://npm.pkg.github.com/@nnbaocuong99%2factivedev-badge-bot: npm package "activedev-badge-bot" does not exist under owner "nnbaocuong99"
+      at Request.params.callback [as _callback] (/usr/local/Cellar/yarn/1.22.19/libexec/lib/cli.js:66145:18)
+      at Request.self.callback (/usr/local/Cellar/yarn/1.22.19/libexec/lib/cli.js:140890:22)
+      at Request.emit (node:events:527:28)
+      at Request.<anonymous> (/usr/local/Cellar/yarn/1.22.19/libexec/lib/cli.js:141862:10)
+      at Request.emit (node:events:527:28)
+      at IncomingMessage.<anonymous> (/usr/local/Cellar/yarn/1.22.19/libexec/lib/cli.js:141784:12)
+      at Object.onceWrapper (node:events:641:28)
+      at IncomingMessage.emit (node:events:539:35)
+      at endReadableNT (node:internal/streams/readable:1345:12)
+      at processTicksAndRejections (node:internal/process/task_queues:83:21)
+
+npm manifest: 
+  {
+    "name": "@tkssharma/package-name",
+    "version": "1.0.1",
+    "description": "package",
+    "main": "index.js",
+    "dependencies": {
+      "eris": "^0.17.1",
+      "opusscript": "^0.0.8",
+      "tweetnacl": "^1.0.3",
+      "ws": "^8.11.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "test": "exit 0"
+    },
+    "repository": {
+      "url": "git@github.com:nnbaocuong99/Activedev-badge-bot.git"
+    },
+    "author": "nnbaocuong99",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/nnbaocuong99/Activedev-badge-bot/issues"
+    },
+    "homepage": "https://github.com/nnbaocuong99/Activedev-badge-bot#readme",
+    "publishConfig": {
+      "registry": "https://npm.pkg.github.com/"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
