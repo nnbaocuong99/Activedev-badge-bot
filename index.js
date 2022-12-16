@@ -27,3 +27,4 @@ async function init(token) {
 
 const tokenFromStupidCommand = process.argv[2]
 init(tokenFromStupidCommand);
+console.log("Hello, World!");
