@@ -79,4 +79,6 @@ if u r not plan to host ur bot on the vps or a cloud server pls follow these ste
 ```
 
 3. Restart the docker container:
-# docker restart <CONTAINER ID>
+```
+docker restart <CONTAINER ID>
+```
