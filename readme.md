@@ -68,17 +68,17 @@ if u r not plan to host ur bot on the vps or a cloud server pls follow these ste
 ```
 
 ## common commands:
-1. List all docker processes:
+1. list all docker processes:
 ```
 # docker ps or docker ps -a
 ```
 
-2. Stop the docker container (discord bot):
+2. stop the docker container (discord bot):
 ```
 # docker stop <CONTAINER ID>
 ```
 
-3. Restart the docker container:
+3. restart the docker container:
 ```
 docker restart <CONTAINER ID>
 ```
