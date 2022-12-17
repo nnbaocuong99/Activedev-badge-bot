@@ -29,8 +29,6 @@ if u r not plan to host ur bot on the vps or a cloud server pls follow these ste
 
 2. run this command `npm run ur_bot_token` 
 
-- basic package: https://www.npmjs.com/settings/nnbaocuong99/packages
-
 ---
 
 ## ✨ run the command and get ur own the badge
@@ -39,3 +37,46 @@ if u r not plan to host ur bot on the vps or a cloud server pls follow these ste
 - use the `/hithere` command by type `/` on the chat and select you bot
 - if u still uneligible, that is because ur bot is new even brand new and it take abt 24h for ur bot to be fully registered as "active" on discord 
 - dont forget to turn on the `"Use data to improve Discord"` in User `settings -> privacy` because at least one person using ur bot need that turned on in order for us to track command events.
+
+---
+
+## ✨ others:
+
+- package: https://www.npmjs.com/settings/nnbaocuong99/packages
+- Dockerfile: [here](https://github.com/nnbaocuong99/Activedev-badge-bot/blob/main/Dockerfile)
+
+---
+
+## ✨ bonus some extra command if u use docker:
+
+1. if u dont wanna use my Dockerfile, just create ur own
+`nano` or `touch` Dockerfile
+
+2. move to ur discord bot directory.
+```
+# cd ~/your-directory
+```
+
+3. build it (. means u gonna build it from th
+```
+# docker build -t -d your-directory .
+```
+
+4. run it
+```
+# docker run -d your-directory
+```
+
+## common commands:
+1. List all docker processes:
+```
+# docker ps or docker ps -a
+```
+
+2. Stop the docker container (discord bot):
+```
+# docker stop <CONTAINER ID>
+```
+
+3. Restart the docker container:
+# docker restart <CONTAINER ID>
